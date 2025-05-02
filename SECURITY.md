@@ -2,7 +2,7 @@
 
 ## Security
 
-This document applies to all repositories under the [Cosmic](https://github.com/cosmic-infrastructure) organization. We take security seriously and have established the following process to ensure vulnerabilities are handled promptly and responsibly.
+We take security seriously and have established the following process to ensure vulnerabilities are handled promptly and responsibly.
 
 If you believe you have found a security vulnerability in any repository that meets [NIST's definition of a security vulnerability](https://csrc.nist.gov/glossary/term/vulnerability), please report it to us as described below.
 
