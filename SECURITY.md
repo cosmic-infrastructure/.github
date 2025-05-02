@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any repository that me
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 1. [Scope & Supported Versions](#scope--supported-versions)  
 2. [Reporting a Vulnerability](#reporting-a-vulnerability)  
@@ -71,7 +71,7 @@ Once a report is received:
 
 ## Vulnerability Disclosure Program (VDP)
 
-📣 **All vulnerability reports must go through our official VDP on HackerOne.**
+**All vulnerability reports must go through our official VDP on HackerOne.**
 
 - **Submission Channel**  
   - HackerOne: https://hackerone.com/spaceandtime  
