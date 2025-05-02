@@ -13,8 +13,8 @@ If you believe you have found a security vulnerability in any repository that me
 1. [Scope & Supported Versions](#scope--supported-versions)  
 2. [Reporting a Vulnerability](#reporting-a-vulnerability)  
 3. [Our Response Process](#our-response-process)  
-4. [Coordinated Disclosure & Public Acknowledgement](#coordinated-disclosure-public-acknowledgement)  
-5. [Vulnerability Disclosure Program](#Vulnerability-Disclosure-Program-(VDP))  
+4. [Coordinated Disclosure & Public Acknowledgement](#coordinated-disclosure--public-acknowledgement)  
+5. [Vulnerability Disclosure Program](#Vulnerability-disclosure-program-vdp)  
 7. [Feedback](#feedback)  
 
 ---
@@ -27,7 +27,7 @@ We strive to maintain security fixes for all actively supported versions of our 
 
 ## Reporting a Vulnerability
 
-🛑 **Do not** open GitHub issues, pull requests, or discussions for security reports.
+**Do not** open GitHub issues, pull requests, or discussions for security reports.
 
 When reporting, include as many details as possible:
 
@@ -37,8 +37,6 @@ When reporting, include as many details as possible:
 - **Reproduction steps** or test case  
 - **Proof-of-concept** or exploit code, if available  
 - **Suggested severity/impact** and any mitigating factors  
-
-Our Security Team will acknowledge receipt within **24 hours**.
 
 ---
 
@@ -60,8 +58,6 @@ Once a report is received:
 
 4. **Closure**  
    - Once patches are live, we’ll confirm resolution and (with your permission) acknowledge you in our public advisory.
-
-We aim to ship a fix within **30 calendar days** of triage, where feasible.
 
 ---
 
@@ -85,7 +81,6 @@ We aim to ship a fix within **30 calendar days** of triage, where feasible.
   - Include all details outlined in [Reporting a Vulnerability](#reporting-a-vulnerability).
 
 - **Acknowledgment & Response**  
-  - We will acknowledge receipt within **7 calendar days**.  
   - Our Security Team will investigate, triage, and provide status updates via the platform.
 
 - **Safe Harbor**  
@@ -100,6 +95,5 @@ If you have suggestions to improve this process, please submit a pull request ag
 ---
 
 *Last updated: May 2025*  
-
 
 <!-- END SECURITY.MD BLOCK -->
