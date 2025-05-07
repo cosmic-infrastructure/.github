@@ -14,7 +14,7 @@ If you believe you have found a security vulnerability in any repository that me
 2. [Reporting a Vulnerability](#reporting-a-vulnerability)  
 3. [Our Response Process](#our-response-process)  
 4. [Coordinated Disclosure & Public Acknowledgement](#coordinated-disclosure--public-acknowledgement)  
-5. [Vulnerability Disclosure Program](#Vulnerability-disclosure-program-vdp)  
+5. [Vulnerability Disclosure Program](#vulnerability-disclosure-program-vdp)  
 7. [Feedback](#feedback)  
 
 ---
@@ -74,7 +74,11 @@ Once a report is received:
 **All vulnerability reports must go through our official VDP on HackerOne.**
 
 - **Submission Channel**  
-  - HackerOne: https://hackerone.com/spaceandtime  
+  - HackerOne: [hackerone.com/spaceandtime](https://hackerone.com/spaceandtime)
+
+- **Private & Invite-Only**  
+  - Our VDP is closed and available by invitation only.  
+  - To request an invitation, please email us at **security@spaceandtime.io**.
 
 - **Guidelines**  
   - Adhere to the submission and disclosure requirements on HackerOne.  
